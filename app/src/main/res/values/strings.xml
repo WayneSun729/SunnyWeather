@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">SunnyWeather</string>
+    <string name="app_name">彩云天气</string>
     <string name="hintOfSearch">请输入地址</string>
 </resources>
