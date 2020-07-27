@@ -1,6 +1,8 @@
 # SunnyWeather
 该项目采用了MVVM架构。
 
+<img src="https://github.com/WayneSun729/SunnyWeather/blob/master/images/WeatherActivity.jpg" width="750" />
+
 我们可以将程序分为了若干层。
 
 绿色部分表示的是UI控制层，这部分就是我们平时写的Activity和Fragment。
@@ -17,6 +19,9 @@
 （好莱坞原则）
 
 还有，引用不能跨层持有，就比方说UI控制层不能持有仓库层的引用，每一层的组件都只能和它的相邻层交互。
+
+项目运行截图如下：
+<img src="https://github.com/WayneSun729/SunnyWeather/blob/master/images/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png" width="750" />
 
 接下来可以改进的方向：
 1.提供更完整的天气信息
